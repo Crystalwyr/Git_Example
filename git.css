@@ -1,4 +1,12 @@
 body
 {
-    background-color: rgb(8, 232, 157);
+    background-color: rgb(61, 225, 165);
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: brown;
+    text-align: center;
 }
